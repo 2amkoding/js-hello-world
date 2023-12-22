@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Wsup, World");
+console.log(2+2);
+console.log("wsup","\t","back");
+console.log('"quotations"');
 
 /*  
 Next, PLAY! 
